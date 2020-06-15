@@ -1,3 +1,3 @@
 local foo = {}
 
-return value
+return bar
