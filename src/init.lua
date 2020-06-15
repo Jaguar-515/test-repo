@@ -1,0 +1,3 @@
+local foo = {}
+
+return value
